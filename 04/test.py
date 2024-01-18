@@ -21,4 +21,4 @@ import requests
 # r = requests.get(url, cookies=cookies)
 # print(r.text)
 
-requests.get('https://github.com/', timeout=0.001)
+requests.get('https://github.com/')
