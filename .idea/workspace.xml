@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76b3869f-eb3f-4f5b-88a0-cdd177c22424" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/豆瓣最受欢迎的1000部电影.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/04/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/豆瓣最受欢迎的250部电影.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/08/豆瓣最受欢迎的250部电影.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <updated>1705383752079</updated>
       <workItem from="1705383753162" duration="8512000" />
       <workItem from="1705454783420" duration="6268000" />
-      <workItem from="1705540773069" duration="5170000" />
+      <workItem from="1705540773069" duration="9516000" />
     </task>
     <servers />
   </component>
@@ -87,6 +87,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/learn_py_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1705557125364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/learn_py_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1705565811047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
   </component>
 </project>
