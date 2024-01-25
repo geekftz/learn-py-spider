@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76b3869f-eb3f-4f5b-88a0-cdd177c22424" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/16/t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/豆瓣最受欢迎的1000部电影.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/captcha1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/captcha2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/captcha3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/14/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="FormatOnSaveOptions">
@@ -59,7 +68,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/fangxiang/Desktop/test/learn-py-spider",
+    "last_opened_file_path": "/Users/fangxiang/Desktop/test/learn-py-spider/20",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -100,7 +110,8 @@
       <workItem from="1705901155807" duration="155000" />
       <workItem from="1705901367792" duration="143000" />
       <workItem from="1705901665101" duration="13998000" />
-      <workItem from="1706001111939" duration="6442000" />
+      <workItem from="1706001111939" duration="8988000" />
+      <workItem from="1706148574935" duration="4583000" />
     </task>
     <servers />
   </component>
@@ -135,8 +146,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_py_spider$t.coverage" NAME="t Coverage Results" MODIFIED="1705989553607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16" />
-    <SUITE FILE_PATH="coverage/learn_py_spider$client.coverage" NAME="client Coverage Results" MODIFIED="1706074759225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
-    <SUITE FILE_PATH="coverage/learn_py_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1706074313635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/learn_py_spider$client.coverage" NAME="client Coverage Results" MODIFIED="1706089198346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/learn_py_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1706159293461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20" />
     <SUITE FILE_PATH="coverage/learn_py_spider$server.coverage" NAME="server Coverage Results" MODIFIED="1706074696933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
   </component>
 </project>
